@@ -1,0 +1,60 @@
+body {
+  margin :0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  background-color: #F9F7F7;
+}
+h1 {
+  margin: 50px auto 0 auto;
+  padding-top: 100px;
+  color: #112D4E;
+  font-family: 'Pacifico', cursive;
+  font-size: 65px;
+}
+h2 {
+    color: #112D4E;
+  font-family: 'Pacifico', cursive;
+  font-size: 2.5rem;
+  padding-top: 30px;
+}
+.hello {
+  padding-top: 50px;
+}
+h3 {
+    color: #112D4E;
+  font-family: 'Pacifico', cursive;
+  font-size: 30px;
+}
+p {
+  color: #112D4E;
+  padding-left: 45px;
+  padding-right: 45px;
+}
+span {
+  text-decoration: underline;
+}
+.cloud1 {
+  position: absolute;
+  right: 275px;
+  padding: 50px;
+}
+.cloud2 {
+  position: absolute;
+  left: 325px;
+}
+.female-image {
+  width: 200px;
+  height: 200px;
+  padding-left: 50px;
+}
+.computer {
+  width: 150px;
+  height: 150px;
+  padding-left: 60px
+}
+.chillies {
+  width: 150px;
+  height: 150px;
+  padding-left: 60px
+}
